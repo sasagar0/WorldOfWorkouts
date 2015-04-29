@@ -44,8 +44,9 @@
 					</div>
 				</div>
 				<div class="inner cover">
-					<p class="lead">World of workouts is an entire collection of 
-					workout templates for all kinds of lifters.</p>
+				
+					<p class="lead"><marquee behavior="scroll" direction="left"><i>World of workouts is an entire collection of 
+					workout templates for all kinds of lifters.</i>i></marquee></p>
 					<p class="lead">
 						<a href="#" class="btn btn-lg btn-default">Register</a>
 					</p>
